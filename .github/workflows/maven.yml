@@ -1,4 +1,4 @@
-name: Java CI for folder: complete
+name: Java CI for folder complete
 
 on: [push]
 
